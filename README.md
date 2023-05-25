@@ -9,7 +9,9 @@ Karşılaştırmalı sıralama algoritmaları, sıralanacak öğeleri karşıla�
 - Ekleme Sıralaması (Insertion Sort): Bir sonraki öğeyi sıralı kısmın uygun konumuna yerleştirir. Her adımda, bir önceki sıralı kısım genişler ve yeni öğe doğru konumuna yerleştirilir.
 - Hızlı Sıralama (Quick Sort): Bir pivot eleman seçer ve pivot elemandan küçük olanları soluna, büyük olanları ise sağa yerleştirir. Ardından, sol ve sağ bölümlere ayrı ayrı aynı işlemi uygulayarak sıralama yapar. Veri kümesi parçalara ayrıldıkça sıralanır.
 - Birleştirme Sıralaması (Merge Sort): Veri kümesini rekürsif olarak parçalara ayırır, ardından parçaları birleştirerek sıralar. Parçalar, birleştirme işlemi sırasında karşılaştırılıp birleştirilir.
-    
+
+![image](https://github.com/yigittaskin/py_sorting_algorithms/assets/43133579/ed7df558-1148-49ec-a983-e7193ddf78b6)
+
 # Kurulum 
 1. Python'ın resmi web sitesine gidin: https://www.python.org/downloads/
 2. En son Python sürümünü seçin ve indirin.
